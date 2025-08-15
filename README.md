@@ -5,7 +5,7 @@ Portfólio Front End simples, responsivo e profissional
 
 Este é um **portfólio online simples, responsivo e moderno**, criado como projeto acadêmico para apresentar minhas habilidades em desenvolvimento Front End.  
 
-Ele serve como **cartão de visitas digital**, direcionando visitantes para meu [LinkedIn](https://www.linkedin.com/seu-link) e [GitHub](https://github.com/seu-github).
+Ele serve como **cartão de visitas digital**, direcionando visitantes para meu [LinkedIn](https://www.linkedin.com/in/jeancarneiroc/) e [GitHub](https://github.com/JeanCarneiro91).
 
 ---
 
